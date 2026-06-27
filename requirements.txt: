@@ -1,8 +1,7 @@
-streamlit
-torch
-torchvision
+streamlit==1.32.0
+torch==2.1.0
+torchvision==0.16.0
 Pillow
 numpy
-gdown
-huggingface_hub
+gdown==5.1.0
 opencv-python-headless
